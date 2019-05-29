@@ -1,4 +1,4 @@
 #!/bin/sh
-cd ~/home/pi
+cd ~/
 sudo python shutdown.py
 cd ~/
