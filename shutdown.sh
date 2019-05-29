@@ -1,4 +1,4 @@
 #!/bin/sh
 cd ~/
-sudo python shutdown.py
+sudo python on_off.py
 cd ~/
